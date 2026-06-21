@@ -1,6 +1,6 @@
 import React from 'react';
-import SplitText from './SplitText.jsx'; 
-import myPhoto from '../assets/ramkrishna.jpg'; 
+import SplitText from './SplitText.jsx';
+import myPhoto from '../assets/ramkrishna.jpg';
 
 
 const Home = () => {
@@ -37,7 +37,7 @@ const Home = () => {
             Contact Me
           </a>
           <a
-            href="https://drive.google.com/file/d/1fuaydV8rXmR0n2En_uII2dh_kcahmW7R/view?usp=sharing"
+            href="https://drive.google.com/file/d/19Sbb8-klEbAqiU9e1TmTJrQ-HjLH0vCX/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="border border-amber-400 text-amber-400 px-6 py-3 rounded-full font-semibold hover:bg-amber-400 hover:text-black transition duration-300"
