@@ -18,6 +18,7 @@ const Navbar = () => {
           <div className="hidden md:flex space-x-6">
             <a href="#home" className="text-amber-300 hover:text-amber-400 transition">Home</a>
             <a href="#about" className="text-amber-300 hover:text-amber-400 transition">About</a>
+            <a href="#experience" className="text-amber-300 hover:text-amber-400 transition">Experience</a>
             <a href="#projects" className="text-amber-300 hover:text-amber-400 transition">Projects</a>
             <a href="#contact" className="text-amber-300 hover:text-amber-400 transition">Contact</a>
           </div>
