@@ -203,7 +203,7 @@ const Home = () => {
                 <FaLinkedin size={18} />
               </a>
               <a
-                href="https://leetcode.com/u/ramkrishna_7602/"
+                href="https://leetcode.com/u/ramuu/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full bg-gray-800/80 border border-gray-700 flex items-center justify-center text-gray-400 hover:text-amber-400 hover:border-amber-400/50 hover:bg-gray-800 transition-all duration-300"
